@@ -3,15 +3,7 @@
 ## 🚀 About Me
 - 🎓 CS @ Western University 
 - 🤖 Building and interested in AI agents, full-stack systems, backend, applied AI/ML
----
-
-## 🔥 What I'm Working On
-- 📊 **LLM Research** – Hallucination benchmarking + evaluation pipelines @IDSL
----
-
-## 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielHe09&show_icons=true&theme=tokyonight)
-
+- 📊 Currently RA @IDSL for LLM Hallucination benchmarking + evaluation pipelines
 ---
 
 ## 📊 Most Used Languages
