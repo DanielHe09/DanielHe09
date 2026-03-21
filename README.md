@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Daniel He
 
-<!--
-**DanielHe09/DanielHe09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 CS @ Western University 
+- 🤖 Building AI agents & full-stack systems 
+- 🧠 Interested in backend, distributed systems, and applied ML
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I'm Working On
+- 📊 **LLM Research** – Hallucination benchmarking + evaluation pipelines @IDSL
+
+---
+
+## 🛠️ Tech Stack
+**Languages**
+- Python, Java, TypeScript, SQL
+
+**Frontend**
+- React, Next.js, Tailwind CSS
+
+**Backend**
+- FastAPI, Node.js, Express
+
+**AI / Data**
+- OpenAI API, LangChain, Vector DBs (ChromaDB, MongoDB Atlas, pgvector)
+
+**Tools**
+- Git, Docker, Vercel, Supabase
+
+---
+
+## 📈 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 🧠 Portfolio: https://your-website.com
+- 📬 Email: your-email@email.com
