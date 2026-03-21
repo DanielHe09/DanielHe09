@@ -12,5 +12,4 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/daniel-he-1309b2294/
 - 📬 Email: dhe72@uwo.ca
