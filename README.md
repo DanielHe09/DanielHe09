@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 CS @ Western University 
 - 🤖 Building and interested in AI agents, full-stack systems, backend, applied AI/ML
-- 📊 Currently RA @IDSL for LLM Hallucination benchmarking + evaluation pipelines
+- 📊 Currently doing undergraduate research for LLM Hallucination benchmarking + evaluation pipelines. Prev SWE @Scotiabank for AI Infra
 ---
 
 ## 📊 Most Used Languages
