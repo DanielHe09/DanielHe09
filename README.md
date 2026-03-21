@@ -1,4 +1,4 @@
-# Hi 👋, I'm Daniel He
+# Hi 👋, I'm Daniel
 
 ## 🚀 About Me
 - 🎓 CS @ Western University 
