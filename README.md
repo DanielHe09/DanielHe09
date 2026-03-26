@@ -8,6 +8,7 @@
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHe09&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🌐 Connect With Me
