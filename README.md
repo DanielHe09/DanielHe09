@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Most Used Languages
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHe09&layout=compact&theme=tokyonight](https://github-stats-extended.vercel.app/api/top-langs?username=DanielHe09&hide_progress=true&langs_count=4&theme=transparent])
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=DanielHe09&hide_progress=true&langs_count=4&theme=transparent)
 
 ---
 
