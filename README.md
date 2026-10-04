@@ -3,8 +3,8 @@
 ## 🚀 About Me
 - 🎓 CS @ Western University 
 - 🤖 Building and interested in AI agents, full-stack systems, backend, applied AI/ML
-- 💼 Currently SWE Intern @OpsGuru for AWS AI Infra
-- 📊 Prev SWE @Scotiabank for AI Infra and undergraduate research for LLM Hallucination benchmarking (Submitted to COLM 2026)
+- 💼 Prev SWE Intern @OpsGuru for AWS AI Infra
+- 📊 Prev SWE @Scotiabank for AI Infra and undergraduate research for LLM Hallucination benchmarking (under review at ICLR 2027)
 ---
 
 ## 📊 Most Used Languages
